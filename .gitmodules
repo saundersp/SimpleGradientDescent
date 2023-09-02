@@ -1,0 +1,3 @@
+[submodule "JupyterHelper"]
+	path = JupyterHelper
+	url = https://git.saundersp.com/saundersp/JupyterHelper.git
