@@ -7,7 +7,6 @@ Required libraries
 - Numpy
 - Matplotlib
 - Sci-kit learn
-- tqdm
 - JupyterLab
 
 ## installation
