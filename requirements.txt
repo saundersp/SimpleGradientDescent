@@ -1,9 +1,9 @@
-jupyterlab==4.0.11
-matplotlib==3.8.2
-tqdm==4.66.1
-ipywidgets==8.1.1
-scikit-learn==1.4.0
-numpy==1.26.3
+jupyterlab==4.2.1
+matplotlib==3.9.0
+scikit-learn==1.5.0
+#numpy==1.26.4
 
 # Not mandatory but useful nonetheless
-jupyterlab_git==0.50.0
+#euporie==2.8.2
+jupyterlab_git==0.50.1
+jupyterlab-vim==4.1.3
