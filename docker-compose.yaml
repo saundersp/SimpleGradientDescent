@@ -1,0 +1,11 @@
+services:
+  simplegradientdescent:
+    image: saundersp/simplegradientdescent
+    build: .
+    volumes:
+      - ./logs:/home/SimpleGradientDescent/logs
+      - ./jupyter:/home/SimpleGradientDescent/jupyter
+      - ./__pycache__:/home/SimpleGradientDescent/__pycache__
+      - ./.ipynb_checkpoints:/home/SimpleGradientDescent/.ipynb_checkpoints
+    ports:
+      - 8888:8888
