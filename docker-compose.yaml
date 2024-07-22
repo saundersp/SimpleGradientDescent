@@ -1,6 +1,7 @@
 services:
   simplegradientdescent:
     image: saundersp/simplegradientdescent
+    pull_policy: never
     build: .
     volumes:
       - ./logs:/home/SimpleGradientDescent/logs
