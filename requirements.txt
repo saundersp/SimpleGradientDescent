@@ -3,6 +3,6 @@ matplotlib==3.10.0
 scikit-learn==1.6.1
 
 # Not mandatory but useful nonetheless
-#euporie==2.8.4
+#euporie==2.8.5
 #jupyterlab_git==0.50.2
 #jupyterlab-vim==4.1.4
