@@ -1,5 +1,5 @@
 jupyterlab==4.3.5
-matplotlib==3.10.0
+matplotlib==3.10.1
 scikit-learn==1.6.1
 
 # Not mandatory but useful nonetheless
