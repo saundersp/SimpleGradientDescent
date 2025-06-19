@@ -1,8 +1,8 @@
-jupyterlab==4.4.1
-matplotlib==3.10.1
-scikit-learn==1.6.1
+jupyterlab==4.4.3
+matplotlib==3.10.3
+scikit-learn==1.7.0
 
 # Not mandatory but useful nonetheless
 #euporie==2.8.11
-#jupyterlab_git==0.51.1
+#jupyterlab-git==0.51.2
 #jupyterlab-vim==4.1.4
